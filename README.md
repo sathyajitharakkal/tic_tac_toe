@@ -14,7 +14,10 @@ Before you begin, ensure that you have the following installed:
 - Dart: [Install Dart](https://dart.dev/get-dart)
 
 ### Installation
+1. Clone this repository to your local machine using Git:
 
+   ```bash
+   git clone https://github.com/sathyajitharakkal/tic_tac_toe.git
 
 ## How to Play
 
